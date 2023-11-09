@@ -1,5 +1,6 @@
 .gradle
 **/build/
+.idea/
 !src/**/build/
 
 # Ignore Gradle GUI config
@@ -10,6 +11,7 @@ gradle-app.setting
 
 # Avoid ignore Gradle wrappper properties
 !gradle-wrapper.properties
+HELP.md
 
 # Cache of project
 .gradletasknamecache
